@@ -64,7 +64,7 @@
 }
 
 a {
-  color: #e2cac6;
+  color: #dcc5c1;
   text-decoration: none;
 }
 
@@ -116,7 +116,9 @@ h2 {
 }
 
 .color {
-  color: #e2cac6 !important;
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  color: #dcc5c1 !important;
 }
 
 .two {
