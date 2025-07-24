@@ -64,13 +64,13 @@
 }
 
 a {
-  color: #1772d0;
+  color: #e2cac6;
   text-decoration: none;
 }
 
 a:focus,
 a:hover {
-  color: #f09228;
+  color: #7a788d;
   text-decoration: none;
 }
 
@@ -116,7 +116,7 @@ h2 {
 }
 
 .color {
-  color: #1772d0 !important;
+  color: #e2cac6 !important;
 }
 
 .two {
