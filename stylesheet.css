@@ -116,7 +116,7 @@ h2 {
 }
 
 .color {
-  color: #1772d0;
+  color: #1772d0 !important;
 }
 
 .two {
